@@ -5,8 +5,8 @@
 ## 🛠 Habilidades
 - **Lenguajes de Programación:** HTML, CSS, JavaScript, Java
 - **Frameworks y Bibliotecas:** React, Node.js, Bootstrap
-- **Diseño UX/UI:** Figma, Sketch
-- **Herramientas:** Git, Docker, VS Code, Eclipse
+- **Diseño UX/UI:** Figma
+- **Herramientas:** Git, VS Code, Eclipse, Workbench, Postman
 
 ## 📚 Certificaciones
 - **Java Certification by Fundaula**
