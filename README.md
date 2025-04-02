@@ -9,7 +9,9 @@
 - **Herramientas:** Git, VS Code, Eclipse, Workbench, Postman
 
 ## 📚 Certificaciones
-- **Java Certification by Fundaula**
+- **Java Certificación por Fundaula**
+- **SQL Certificación por Fundaula**
+- **Responsive Web Design por FreeCodeCamp**
 
 ## 🌟 Proyectos Destacados
 - **Blog ([Around to MX](https://github.com/kalocesa/web_project_around_react)):** Un espacio estilo Instagram donde comparto mis experiencias y aventuras a través de fotos de la hermosa República Mexicana. Aquí encontrarás una colección de imágenes que capturan la esencia y la belleza de México, desde sus paisajes impresionantes hasta su vibrante cultura. Los usuarios pueden añadir nuevas fotos, dar like o eliminar los posts existentes, lo que les permite interactuar y contribuir activamente al contenido. Mi objetivo es inspirar a otros a explorar y apreciar las maravillas de nuestro país a través de una perspectiva visual única y personalizable.
