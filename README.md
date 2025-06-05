@@ -3,7 +3,7 @@
 ¡Bienvenid@ a mi repositorio personal de GitHub! Soy una desarrolladora web apasionada por el diseño y la creación de experiencias de usuario amigables. Actualmente, me dedico a mejorar mis habilidades tanto en front-end como en back-end, y estoy buscando oportunidades para unirme a un equipo de desarrollo innovador.
 
 ## 🛠 Habilidades
-- **Lenguajes de Programación:** HTML, CSS, JavaScript, Java
+- **Lenguajes de Programación:** HTML, CSS, JavaScript
 - **Frameworks y Bibliotecas:** React, Node.js, Bootstrap
 - **Diseño UX/UI:** Figma
 - **Herramientas:** Git, VS Code, Eclipse, Workbench, Postman
